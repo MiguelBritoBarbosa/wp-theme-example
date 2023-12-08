@@ -16,7 +16,7 @@ documentação da criação de temas: https://developer.wordpress.org/themes/get
 
 
 
-## adicionando TailwindCSS nos tema ->
+## adicionando TailwindCSS no tema ->
 iniciar um package.json com `npm init -y`
 
 `npm install -D tailwindcss` para instalar o tailwind
