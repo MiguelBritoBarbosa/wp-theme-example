@@ -8,7 +8,7 @@ instalar o xampp
 
 ## Instalação do WordPress -> 
 
-`curl -O https://wordpress.org/latest.tar.gz`
+`curl -O https://br.wordpress.org/latest-pt_BR.zip`
 
 `tar xvf latest.tar.gz`
 
